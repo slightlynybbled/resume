@@ -44,7 +44,6 @@ product along with production support.
  #. Improved design quality by implementing design checklists for 
     schematics, layouts, and components
  #. Acquired basic reliability analysis skills, including Weibull analysis
- #. 
 
 Electronics Repair Technician
 -----------------------------
