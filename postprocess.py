@@ -13,7 +13,7 @@ source_path.rename('docs')
 build_path = Path('build')
 shutil.rmtree(build_path)
 
-nojekyll_path = docs_path / '.nojekyll'
+nojekyll_path = Path('.') / '.nojekyll'
 with open(nojekyll_path, 'w') as f:
     f.write('')
 print(nojekyll_path)
