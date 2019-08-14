@@ -1,6 +1,12 @@
 Skills
 ======
 
+.. image:: _static/images/forembed.png
+    :width: 80px
+    :height: 80px
+    :alt: microcontroller logo
+    :align: left
+
 Microcontrollers & Firmware
 ---------------------------
 
@@ -19,6 +25,12 @@ I have successfully deployed firmware implementing motor control algorithms,
 communication protocols (RS-422, RS-485, wireless), and test hardware.  I 
 have written safety-critical code, including full code documentation.
 
+.. image:: _static/images/ee.png
+    :width: 80px
+    :height: 80px
+    :alt: microcontroller logo
+    :align: left
+
 Electrical Engineering
 -----------------------
 
@@ -33,6 +45,12 @@ optimization.  Softwares that I have experience with:
  * Familiarity with DO-178 software design activities 
  * Familiarity with design to meet DO-160 
 
+.. image:: _static/images/me.png
+    :width: 80px
+    :height: 80px
+    :alt: microcontroller logo
+    :align: left
+
 Mechanical Engineering 
 ----------------------
 
@@ -45,6 +63,12 @@ skills.
  * SolidWorks
  * `3D-printing <https://www.thingiverse.com/slightlynybbled/about>`_
 
+.. image:: _static/images/office.png
+    :width: 60px
+    :height: 80px
+    :alt: microcontroller logo
+    :align: left
+
 Office Productivity
 *******************
 
@@ -56,6 +80,12 @@ PDF.
 
  * MS Office Suite
  * `LibreOffice <https://www.libreoffice.org/>`_ Suite
+
+.. image:: _static/images/laptop.png
+    :width: 100px
+    :height: 70px
+    :alt: microcontroller logo
+    :align: left
 
 Software Development
 --------------------
