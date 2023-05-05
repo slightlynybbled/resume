@@ -3,7 +3,8 @@ Resume Outline
 
 .. toctree::
    :maxdepth: 2
-      
+
+   /cover
    /skills
    /experience
    /education
