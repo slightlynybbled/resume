@@ -22,6 +22,8 @@ in the organization from the conference room to the production floor.
 * Identify & implement equipment purchase, from the mundane to capital
 * Write custom user-facing software for tracking facility maintenance
 * Educate and mentor other members of the organization, formally and informally
+* Documentation at all levels
+* Statistical analysis and modeling
 
 Engineering Manager
 ------------------------------

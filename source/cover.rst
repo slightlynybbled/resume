@@ -10,6 +10,6 @@ end, from wiping tables to writing software.
 
 I look forward to speaking with you in the near future,
 
-| Jason R. Jones
+| `Jason R. Jones <https://slightlynybbledresume.readthedocs.io/en/latest/>`_
 | slightlynybbled@gmail.com
 | +1 276 233 8768
