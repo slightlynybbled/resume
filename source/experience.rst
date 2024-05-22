@@ -1,6 +1,48 @@
 Experience
 ==========
 
+Technical Lead, Cooling Pumps
+-----------------------------
+
+:Dates:
+    January 2024 - Present
+:Company:
+    Moog, Inc; Radford, VA
+
+Responsible for directing and resourcing technical activities in cooling pump value stream.  In this role,
+I have been able to lead a multi-disciplinary team of engineers through improvements to current products as
+well as future products within the data center cooling pumps value stream.
+
+* Implement data-driven design, analysis, and test
+* Project management activities to support design efforts
+* Define engineering deliverables and delivery dates
+* Mentor individuals within the group
+* Establish common coding practices across the group
+* Utilize experience gained in manufacturing and operations to create manufacturable designs
+* Electrical, firmware, and mechanical design as needed
+
+Operations Engineering Manager
+------------------------------
+
+:Dates:
+    August 2023 - January 2024
+:Company:
+    Moog, Inc; Radford, VA
+
+Responsible for accomplishing strategic production goals through planning, resource alignment, and
+development of internal technical resources. I have been able to re-align the group along the value
+streams while also re-engaging low-performing resources.
+
+* Training and level-up of individuals and groups
+* Address day-to-day production urgencies
+* Re-align test engineering resources to highest potential opportunities
+* Align manufacturing support personnel along value streams
+* Implement data-driven activities
+* Increase visibility into day-to-day operation
+* Forge tighter relationships between manufacturing engineering and production
+* Forger tighter relationships between Moog and key customers
+* Advise and assist site management as-needed regarding quality, data, history, and processes
+
 Continuous Improvement Lead
 ------------------------------
 
