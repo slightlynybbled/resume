@@ -7,7 +7,10 @@ Technical Lead, Cooling Pumps
 :Dates:
     January 2024 - Present
 :Company:
-    Moog, Inc; Radford, VA
+    .. image:: _static/images/moog-logo.png
+        :height: 30px
+        :alt: Moog logo
+    Radford, VA
 
 Responsible for directing and resourcing technical activities in cooling pump value stream.  In this role,
 I have been able to lead a multi-disciplinary team of engineers through improvements to current products as
@@ -27,7 +30,10 @@ Operations Engineering Manager
 :Dates:
     August 2023 - January 2024
 :Company:
-    Moog, Inc; Radford, VA
+    .. image:: _static/images/moog-logo.png
+        :height: 30px
+        :alt: Moog logo
+    Radford, VA
 
 Responsible for accomplishing strategic production goals through planning, resource alignment, and
 development of internal technical resources. I have been able to re-align the group along the value
@@ -49,7 +55,10 @@ Continuous Improvement Lead
 :Dates:
     June 2022 - Present
 :Company:
-    Moog, Inc; Radford, VA
+    .. image:: _static/images/moog-logo.png
+        :height: 30px
+        :alt: Moog logo
+    Radford, VA
 
 Responsible for identifying and implementing improvements and change
 throughout the organization using formal and informal means with little supervision or guidance.
@@ -73,7 +82,10 @@ Engineering Manager
 :Dates:
     Oct 2020 - June 2022
 :Company:
-    Moog, Inc; Radford, VA
+    .. image:: _static/images/moog-logo.png
+        :height: 30px
+        :alt: Moog logo
+    Radford, VA
 
 Responsible for technical leadership and management of engineering
 department.
@@ -92,7 +104,12 @@ Electrical Engineering Manager
 :Dates:
     Jan 2019 - Oct 2020
 :Company:
-    Moog, Inc; Radford, VA
+    .. image:: _static/images/moog-logo.png
+        :height: 30px
+        :alt: Moog logo
+    Radford, VA
+
+
 
 Responsible for technical leadership and management of electrical 
 engineering department.
@@ -111,7 +128,10 @@ Electrical and Firmware Design Engineer
 :Dates:
     Dec 2007 - Jan 2019
 :Company:
-    Moog, Inc; Blacksburg, VA
+    .. image:: _static/images/moog-logo.png
+        :height: 30px
+        :alt: Moog logo
+    Blacksburg, VA
 
 Responsible for all aspects of electrical design (schematic, 
 layout, and software) for brushless DC and permanent-magnet 
@@ -138,6 +158,9 @@ Electronics Repair Technician
 :Dates:
     May 2007 - Dec 2007
 :Company:
+    .. image:: _static/images/aes-logo.png
+        :height: 80px
+        :alt: AES logo
     Advanced Electronic Services; Mt. Airy, NC
 
 Component-level diagnosis and repair of uninterruptable power supply 
@@ -154,6 +177,9 @@ Fire Support Specialist, Artillery
 :Dates:
     August 2000 - August 2004
 :Company:
+    .. image:: _static/images/army-logo.jpg
+        :height: 80px
+        :alt: US Army logo
     United States Army; Multiple Locations
 
 Call for, observe, and correct indirect fire from artillery batteries.  

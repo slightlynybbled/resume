@@ -11,7 +11,7 @@ Microcontrollers & Firmware
 ---------------------------
 
 I generally prefer a layered architecture in order to reduce the mind share 
-required in order to complete portions of an application.  This development 
+required to complete portions of an application.  This development
 method often leads to code which emphasizes function over cyclic efficiency.
 
 I have successfully deployed each of the below architectures into production:
