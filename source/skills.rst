@@ -1,5 +1,5 @@
-Skills
-======
+Technical Skills
+================
 
 .. image:: _static/images/forembed.png
     :width: 80px
@@ -95,6 +95,11 @@ my skills, I found it necessary to learn other languages in order to become a be
 firmware developer.  Additionally, through that process, I was further exposed to 
 different souce control and development methods which increased my productivity 
 and value in my various roles.
+
+.. image:: _static/images/git.png
+    :width: 70
+    :alt: branching logo
+    :align: left
 
 Git
 ***
