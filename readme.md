@@ -15,3 +15,7 @@ To make a normal HTML page with full navigation:
 To make a single-page version:
 
     make singlehtml
+
+To make a pdf version:
+
+    make latexpdf
