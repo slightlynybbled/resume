@@ -53,7 +53,7 @@ Continuous Improvement Lead
 ------------------------------
 
 :Dates:
-    June 2022 - Present
+    June 2022 - August 2023
 :Company:
     .. image:: _static/images/moog-logo.png
         :height: 30px
