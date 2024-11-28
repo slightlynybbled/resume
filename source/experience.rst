@@ -41,7 +41,7 @@ streams while also re-engaging low-performing resources.
 
 * Training and level-up of individuals and groups
 * Address day-to-day production urgencies
-* Re-align test engineering resources to highest potential opportunities
+* Re-align test engineering resources to the highest potential opportunities
 * Align manufacturing support personnel along value streams
 * Implement data-driven activities
 * Increase visibility into day-to-day operation
