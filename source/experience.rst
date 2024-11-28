@@ -1,28 +1,43 @@
 Experience
 ==========
 
+Engineering Manager
+------------------------------
+
+:Dates:
+    Oct 2020 - Present
+:Company:
+    Moog, Inc; Radford, VA
+
+Responsible for technical leadership and management of engineering
+department.
+
+* Modernize documentation processes throughout the facility
+* Implement more formal design processes
+* Plan and coordinate strategic department goals (i.e. training, process)
+* Primary engineering contact for customers, internally
+* Advise various on-site departments with regard to data management, analytics
+* Unify site manufacturing data formats to enable statistical process control
+* Create and distribute tools for statistical process control
+
 Electrical Engineering Manager
 ------------------------------
 
 :Dates:
-    Jan 2019 - Present
+    Jan 2019 - Oct 2020
 :Company:
     Moog, Inc; Radford, VA
 
 Responsible for technical leadership and management of electrical 
-engineering department.  While in this role, I have been able to:
+engineering department.
 
- #. Modernize and improve firmware release processes
- #. Improve productivity of direct reports through exposure to new
-    techniques and technologies
- #. Advise project managers as to the technical capabilities, 
-    workloads, and relative workload of the department 
- #. Improve data visibility and data literacy of the organization
-    by requiring automated testing for throughout the design and
-    deployment cycle
- #. Implement informal professional development environment through 
-    lunch 'n learn activities
- #. Lead by example
+* Modernize and improve firmware release processes
+* Improve productivity of direct reports through exposure to new techniques and technologies
+* Advise project managers as to the technical capabilities, workloads, and relative workload of the department
+* Improve data visibility and data literacy of the organization by requiring automated testing for throughout the design and deployment cycle
+* Develop automated test equipment to replace aging technologies
+* Implement informal professional development environment through lunch 'n learn activities
+* Lead by example
 
 Electrical and Firmware Design Engineer
 ---------------------------------------
@@ -37,13 +52,19 @@ layout, and software) for brushless DC and permanent-magnet
 synchronous motors.  Also responsible for documentation of 
 product along with production support.
 
- #. Improved development workflow for the group by shifting group 
-    from directory control into a source control software 
- #. Improved design documentation activities by implementing reports 
-    to be attached to engineering change processes
- #. Improved design quality by implementing design checklists for 
-    schematics, layouts, and components
- #. Acquired basic reliability analysis skills, including Weibull analysis
+* Create firmware for real-time applications, primarily motor control, using C and assembly on:
+
+  * TI MSP430 series (16-bit)
+  * Microchip dsPIC33 series (16-bit)
+  * STMicro STM32 series (ARM 32-bit)
+  * Limited exposure to other platforms
+
+* Apply standards such as DO-160, DO-178 to designs
+* Improve development workflow for the group by shifting group from directory control into a source control software
+* Improve design documentation activities by implementing reports to be attached to engineering change processes
+* Improve design quality by implementing design checklists for schematics, layouts, and components
+* Apply fundamental reliability techniques, including Weibull analysis
+* Develop automated test equipment for my product lines
 
 Electronics Repair Technician
 -----------------------------
@@ -58,8 +79,8 @@ board modules with ratings ranging between 2kVA to 800kVA utilizing
 benchtop troubleshooting equipment, such as oscilloscope, curve tracer, and 
 multimeter.
 
- #. Acquired basic soldering proficiency (through-hole, surface-mount)
- #. Learned the fundamentals of three-phase power
+* Acquire basic soldering proficiency (through-hole, surface-mount)
+* Learn the fundamentals of three-phase power
 
 Fire Support Specialist, Artillery
 ----------------------------------
@@ -74,6 +95,6 @@ Advised command-level entities of fire support asset capabilities and
 availability.  Participated in Operation Iraqi Freedom with the 101st 
 Airborne Division 2003 to 2004.
 
- #. Developed land navigation skills through training
- #. Learned to show up to work on-time
- #. Developed perspective
+* Develop land navigation skills through training
+* Show up to work on-time
+* Develop perspective
