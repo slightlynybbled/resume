@@ -1,4 +1,4 @@
-.idea/
+.python-version
+.venv/
 .vscode/
 build/
-venv/
