@@ -19,11 +19,8 @@ I have successfully deployed firmware implementing motor control algorithms,
 communication protocols (RS-422, RS-485, wireless), and test hardware.  I 
 have written safety-critical code, including full code documentation.
 
-Engineering
------------
-
-Electrical Design
-*****************
+Electrical Engineering
+-----------------------
 
 I have been responsible for all aspectes of electrical design, from
 schematic entry, component selection, through layout and cost
@@ -36,8 +33,8 @@ optimization.  Softwares that I have experience with:
  * Familiarity with DO-178 software design activities 
  * Familiarity with design to meet DO-160 
 
-Mechanical Design 
-*****************
+Mechanical Engineering 
+----------------------
 
 I acquired a hobby of 3D printing during the early days of the rising
 hobbyist 3D printing.  In addition, I had a mentor who allowed me to 
@@ -62,6 +59,12 @@ PDF.
 
 Software Development
 --------------------
+
+My introduction to software was as a firmware developer.  As I continued to develop 
+my skills, I found it necessary to learn other languages in order to become a better
+firmware developer.  Additionally, through that process, I was further exposed to 
+different souce control and development methods which increased my productivity 
+and value in my various roles.
 
 Git
 ***
