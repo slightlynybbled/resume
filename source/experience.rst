@@ -86,7 +86,7 @@ in the organization from the conference room to the production floor.
 * Documentation at all levels
 * Statistical analysis and modeling
 
-Engineering Manager
+Design Engineering Manager
 ------------------------------
 
 :Dates:
@@ -185,8 +185,8 @@ multimeter.
   * Bench-top curve-tracer, "Huntron Tracker"
   * Component identification & replacement
 
-Fire Support Specialist, Artillery
-----------------------------------
+`Fire Support Specialist <https://www.goarmy.com/careers-and-jobs/ground-forces/explosives-artillery/13f-joint-fire-support-specialist>`_, Artillery
+-----------------------------------------------------------------------------------------------------------------------------------------------------
 
 :Dates:
     August 2000 - August 2004
@@ -198,9 +198,10 @@ Fire Support Specialist, Artillery
 
 Call for, observe, and correct indirect fire from artillery batteries.  
 Advised command-level entities of fire support asset capabilities and 
-availability.  Participated in Operation Iraqi Freedom with the 101st 
-Airborne Division 2003 to 2004.
+availability.  Participated in Operation Iraqi Freedom with the 
+`2nd Battalion 320th Field Artillery <https://en.wikipedia.org/wiki/2nd_Battalion,_320th_Field_Artillery_Regiment>`_ 101st Airborne Division 2003 to 2004.
 
 * Develop land navigation skills through training
+* Air-Assult Qualified
 * Show up to work on-time
 * Develop perspective

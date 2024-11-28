@@ -161,12 +161,15 @@ Web
 ***
 
 I have become familiar with JavaScript through experimentation and development
-of some toy web sites.  I have implemented small web sites which interact with
-hardware on such platforms as Raspberry Pi and similar.
+of some web sites.  I have implemented web sites which interact with internal 
+populations of around 200 individuals and were fully deployed on the factory
+floor.
 
  * `Jinja2 <https://jinja.palletsprojects.com/en/2.10.x/>`_ templates
- * Basic JavaScript
- * Basic Bootstrap
+ * `HTMX <https://htmx.org/>`_
+ * `SQLite <https://www.sqlite.org/>`_
+ * JavaScript
+ * Bootstrap
 
 Misc 
 ----
