@@ -19,7 +19,7 @@ I have successfully deployed each of the below architectures into production:
  * PIC24/dsPIC33 series development in C, assembly
  * PIC10/12/16/18 series development in assembly
  * MSP430 series development in C 
- * STM32F series development in C
+ * STM32 series development in C
 
 I have successfully deployed firmware implementing motor control algorithms,
 communication protocols (RS-422, RS-485, wireless), and test hardware.  I 
@@ -57,11 +57,15 @@ Mechanical Engineering
 I acquired a hobby of 3D printing during the early days of the rising
 hobbyist 3D printing.  In addition, I had a mentor who allowed me to 
 design mechanical parts and features that eventually made it into 
-production giving me basic - but not comprehensive - mechanical design
-skills.
+production giving me mechanical design skills.
+
+I have been able to hone my initial skillset through product design and
+tool design.
 
  * SolidWorks
  * `3D-printing <https://www.thingiverse.com/slightlynybbled/about>`_
+ * Tool design
+ * Drawings
 
 .. image:: _static/images/office.png
     :width: 60px
@@ -79,6 +83,10 @@ document which is inherently organized and beautifully exported to
 PDF.
 
  * MS Office Suite
+   * Word
+   * Excel
+   * Powerpoint
+   * OneNote
  * `LibreOffice <https://www.libreoffice.org/>`_ Suite
 
 .. image:: _static/images/laptop.png
@@ -135,10 +143,12 @@ development, and data analysis.
 
  * `Sphinx <http://www.sphinx-doc.org/en/latest/>`_ - as evidenced by this document
  * `Pyserial <https://pythonhosted.org/pyserial/>`_ - `interfacing with hardware <https://github.com/slightlynybbled/di2008>`_; communication protocols
- * GUI - tkinter
+ * GUI
+   * tkinter
+   * Qt via `pyside6 <https://doc.qt.io/qtforpython-6/>`_
  * `Flask <https://palletsprojects.com/p/flask/>`_, including flask blueprints
  * Application deployment - no external dependencies
- * `Automated test development <https://ate.readthedocs.io/en/latest/index.html>`_ for manufacturing environments
+ * Automated test development for manufacturing environments
  * Jupyter Notebooks - utilized for basic data analysis
  * `PyTest <https://docs.pytest.org/en/latest/>`_ for automated software testing
 

@@ -1,11 +1,33 @@
 Experience
 ==========
 
+Continuous Improvement Lead
+------------------------------
+
+:Dates:
+    June 2022 - Present
+:Company:
+    Moog, Inc; Radford, VA
+
+Responsible for identifying and implementing improvements and change
+throughout the organization using formal and informal means with little supervision or guidance.
+In this role, I have been able to distinguish myself as a capable leader with vision
+in the organization from the conference room to the production floor.
+
+* Identify opportunities for improvement
+* Prioritize opportunities by effort vs impact
+* Write & deploy automated test
+* Production tool design
+* Linearize/flow production line for scaling
+* Identify & implement equipment purchase, from the mundane to capital
+* Write custom user-facing software for tracking facility maintenance
+* Educate and mentor other members of the organization, formally and informally
+
 Engineering Manager
 ------------------------------
 
 :Dates:
-    Oct 2020 - Present
+    Oct 2020 - June 2022
 :Company:
     Moog, Inc; Radford, VA
 
