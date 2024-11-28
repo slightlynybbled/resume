@@ -16,7 +16,7 @@ Bachelor of Science
     Old Dominion University
 :Major:
     Electrical Engineering Technology
-:Minor:
+:Minors:
     Mechanical Engineering Technology, Psychology
 
 Associate of Arts & Sciences
@@ -32,5 +32,5 @@ Associate of Arts & Sciences
     August 2004 - August 2005
 :Organization:
     Wytheville Community College
-:Focus:
+:Foci:
     Science, Education

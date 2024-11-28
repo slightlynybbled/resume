@@ -18,9 +18,8 @@
 # -- Project information -----------------------------------------------------
 
 project = 'resume'
-copyright = '2019, Jason R. Jones'
+copyright = '2024, Jason R. Jones'
 author = 'Jason R. Jones'
-
 
 # -- General configuration ---------------------------------------------------
 
