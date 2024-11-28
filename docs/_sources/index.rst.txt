@@ -1,5 +1,5 @@
-Jason R. Jones
-==================================
+Resume Outline
+==============
 
 .. toctree::
    :maxdepth: 2
@@ -7,6 +7,7 @@ Jason R. Jones
    /skills
    /experience
    /education
+   /contact
 
 Indices and tables
 ==================
