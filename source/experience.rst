@@ -20,7 +20,7 @@ well as future products within the data center cooling pumps value stream.
 * Project management activities to support design efforts
 * Define engineering deliverables and delivery dates
 * Mentor individuals within the group
-* Establish common coding practices across the group
+* Establish common coding practices across the group (GitHub, release practices, code reviews, style guides)
 * Utilize experience gained in manufacturing and operations to create manufacturable designs
 * Electrical, firmware, and mechanical design as needed
 
