@@ -178,3 +178,5 @@ Misc
  * reStructured Text
  * Spaces, not tabs
  * GIMP (basic image manipulation)
+ * Windows
+ * Linux (primarily `Ubuntu <https://ubuntu.com/>`_)
