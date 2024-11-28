@@ -16,12 +16,23 @@ Responsible for directing and resourcing technical activities in cooling pump va
 I have been able to lead a multi-disciplinary team of engineers through improvements to current products as
 well as future products within the data center cooling pumps value stream.
 
-* Implement data-driven design, analysis, and test
-* Project management activities to support design efforts
+* Implement data-driven design, analysis, and test to reduce risk in design efforts
+
+  * Implement Monte-Carlo based tolerance analysis
+  * Convert manufacturing yields into actionable results
+  * Develop feature-based validation plans
+  * Utilize experience gained in manufacturing and operations to create manufacturable designs
+
 * Define engineering deliverables and delivery dates
-* Mentor individuals within the group
-* Establish common coding practices across the group (GitHub, release practices, code reviews, style guides)
-* Utilize experience gained in manufacturing and operations to create manufacturable designs
+* Mentor individuals within the group of all disciplines
+* Establish common coding practices across the group
+
+  * Establish GitHub pull requests as the way to change code
+  * Establish standard release practices
+  * Implement code reviews
+  * Establish onboarding guides for software installations, style, workflows, etc.
+
+* Establish product roadmaps
 * Electrical, firmware, and mechanical design as needed
 
 Operations Engineering Manager
@@ -45,8 +56,7 @@ streams while also re-engaging low-performing resources.
 * Align manufacturing support personnel along value streams
 * Implement data-driven activities
 * Increase visibility into day-to-day operation
-* Forge tighter relationships between manufacturing engineering and production
-* Forger tighter relationships between Moog and key customers
+* Forge tighter relationships between manufacturing engineering, production, and key customers
 * Advise and assist site management as-needed regarding quality, data, history, and processes
 
 Continuous Improvement Lead
@@ -68,8 +78,8 @@ in the organization from the conference room to the production floor.
 * Identify opportunities for improvement
 * Prioritize opportunities by effort vs impact
 * Write & deploy automated test
-* Production tool design
-* Linearize/flow production line for scaling
+* Design new production tools and processes
+* Re-organized production line product flow to aid scaling up and reduce waste
 * Identify & implement equipment purchase, from the mundane to capital
 * Write custom user-facing software for tracking facility maintenance
 * Educate and mentor other members of the organization, formally and informally
@@ -170,6 +180,10 @@ multimeter.
 
 * Acquire basic soldering proficiency (through-hole, surface-mount)
 * Learn the fundamentals of three-phase power
+* Learn and apply troubleshooting techniques 
+
+  * Bench-top curve-tracer, "Huntron Tracker"
+  * Component identification & replacement
 
 Fire Support Specialist, Artillery
 ----------------------------------
