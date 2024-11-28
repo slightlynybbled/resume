@@ -120,6 +120,11 @@ C
 My skills in C have been primarily focused on microcontroller firmware 
 development and not on application development.
 
+.. image:: _static/images/python-logo.png
+    :width: 60px
+    :alt: python logo
+    :align: left
+
 Python 
 ******
 
@@ -136,6 +141,11 @@ development, and data analysis.
  * `Automated test development <https://ate.readthedocs.io/en/latest/index.html>`_ for manufacturing environments
  * Jupyter Notebooks - utilized for basic data analysis
  * `PyTest <https://docs.pytest.org/en/latest/>`_ for automated software testing
+
+.. image:: _static/images/www-logo.png
+    :width: 60px
+    :alt: www logo
+    :align: left
 
 Web
 ***
