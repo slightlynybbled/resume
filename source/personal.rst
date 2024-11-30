@@ -20,8 +20,8 @@ discharge.
 Additionally, I married a wonderfuly woman whom I had met in high 
 school in my hometown and we have been married for over 20 years now.
 
-Post-Army
----------
+Post-Army Education
+-------------------
 
 I left the Army in August of 2004 and decided to utilize the Montgomery
 GI Bill to complete my education.  I had completed several classes while
@@ -34,7 +34,15 @@ after that.
 Professional Life
 -----------------
 
-...
+My first job after school was as a technician for an electronics repair 
+company, `Advanced Electronic Services (AES) <https://www.aesintl.com/>`_.  
+I really liked working here and I learned a lot about the real application 
+of electronics in the real world.  Unfortunately, the engineering position 
+that I was seeking at the time didn't come open in the short time that I was working 
+here, so I had to move on.
+
+My next job was as an electronics and firmware design engineer for Moog, Inc. in
+what was, then, the Components Group.
 
 Kids
 ----
