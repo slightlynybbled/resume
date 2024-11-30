@@ -34,6 +34,9 @@ after that.
 Professional Life
 -----------------
 
+First Steps 
+***********
+
 My first job after school was as a technician for an electronics repair 
 company, `Advanced Electronic Services (AES) <https://www.aesintl.com/>`_.  
 I really liked working here and I learned a lot about the real application 
@@ -41,8 +44,35 @@ of electronics in the real world.  Unfortunately, the engineering position
 that I was seeking at the time didn't come open in the short time that I was working 
 here, so I had to move on.
 
-My next job was as an electronics and firmware design engineer for Moog, Inc. in
-what was, then, the Components Group.
+My next job was as an electronics and firmware design engineer for 
+`Moog, Inc <https://www.moog.com/>`_. in
+what was, then, the Components Group in Blacksburg, Virginia.  I 
+learned electrical and firmware design and practiced for about 10 
+years before moving on to a similar role in Radford, VA.
+
+My mentors in Blacksburg gave me enough guidance to enable me to learn 
+the basics of mechanical design in addition to my other duties and 
+I was able to quickly advance beyond my electrical training.
+
+There was a interlude of about 2 years around 2015 in which I participated in 
+a startup which ultimately failed.  This venture, though ultimately unworkable,
+gave me the opportunity to learn Python and software development for a number
+of other microcontroller architectures.
+
+Management
+**********
+
+...
+
+Stepping Back from Leadership
+*****************************
+
+...
+
+Stepping Up Once More 
+*********************
+
+...
 
 Kids
 ----

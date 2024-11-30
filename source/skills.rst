@@ -128,6 +128,21 @@ C
 My skills in C have been primarily focused on microcontroller firmware 
 development and not on application development.
 
+I generally prefer a layered architecture in order to reduce the mind share 
+required to complete portions of an application.  This development
+method often leads to code which emphasizes function over cyclic efficiency.
+
+I have successfully deployed each of the below architectures into production:
+
+ * PIC24/dsPIC33 series development in C, assembly
+ * PIC10/12/16/18 series development in assembly
+ * MSP430 series development in C 
+ * STM32 series development in C
+
+I have successfully deployed firmware implementing motor control algorithms,
+communication protocols (RS-422, RS-485, wireless), and test hardware.  I 
+have written safety-critical code, including full code documentation.
+
 .. image:: _static/images/python-logo.png
     :width: 60px
     :alt: python logo
