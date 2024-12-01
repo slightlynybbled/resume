@@ -59,10 +59,23 @@ a startup which ultimately failed.  This venture, though ultimately unworkable,
 gave me the opportunity to learn Python and software development for a number
 of other microcontroller architectures.
 
+In the spring of 2017, the financials of the product line that I was a part of
+were not looking positive and I was re-allocated to a very similar role in Radford,
+Virginia, where I brought to the team a more modern approach to data, development,
+and source control that greatly benefited me and the team in Radford.
+
 Management
 **********
 
-...
+Around 2019 in Moog, Radford, I became interested in a more meaningful role 
+in the organization and expressed some interest in management.  I was allocated
+a role as the Electrical Engineering Manager and, upon a small local reorganization,
+I continued as the design manager in the subsequent role as the Design Engineering
+Manager.
+
+Throughout this time, I was able to modernize sevaral design engineering processes
+and creating an environment of learning and stability in a world that was turned
+on its head in the `chaotic environment of 2020 <https://en.wikipedia.org/wiki/COVID-19>`_.
 
 Stepping Back from Leadership
 *****************************

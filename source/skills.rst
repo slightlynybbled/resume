@@ -95,8 +95,8 @@ PDF.
     :alt: microcontroller logo
     :align: left
 
-Software Development
---------------------
+Software Development & Skills
+-----------------------------
 
 My introduction to software was as a firmware developer.  As I continued to develop 
 my skills, I found it necessary to learn other languages in order to become a better
@@ -117,7 +117,7 @@ as useful scripts that I found myself utilizing over and over.  None of the
 projects have "taken off", but many of them have users and have merged 
 pull requests on GitHub.  Amongst the git-related skills:
 
- * Routine command-line interaction (stage, commit, branch, merge)
+ * Routine command-line interaction (stage, commit, branch, merge) 
  * Working with remotes (push, pull, fetch)
  * `GitHub <https://github.com/slightlynybbled>`_, including fork, pull requests
  * `Git Flow <https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow>`_
@@ -162,10 +162,22 @@ development, and data analysis.
    * tkinter
    * Qt via `pyside6 <https://doc.qt.io/qtforpython-6/>`_
  * `Flask <https://palletsprojects.com/p/flask/>`_, including flask blueprints
- * Application deployment - no external dependencies
+ * Application deployment using `Pyinstaller <https://pyinstaller.org/en/stable/>`_
  * Automated test development for manufacturing environments
- * Jupyter Notebooks - utilized for basic data analysis
  * `PyTest <https://docs.pytest.org/en/latest/>`_ for automated software testing
+
+Data Science
+************
+
+I bring a statistical awareness to the table using data science tools and 
+quantitative measures of quality.
+
+ * `Jupyter Notebooks <https://jupyter.org/>`_
+ * `Numpy <https://numpy.org/>`_
+ * `Pandas <https://pandas.pydata.org/>`_
+ * `Matplotlib <https://matplotlib.org/>`_
+ * Control charts
+ * Pareto charts
 
 .. image:: _static/images/www-logo.png
     :width: 60px
@@ -184,7 +196,7 @@ floor.
  * `HTMX <https://htmx.org/>`_
  * `SQLite <https://www.sqlite.org/>`_
  * JavaScript
- * Bootstrap
+ * `Bootstrap <https://getbootstrap.com/>`_
 
 Misc 
 ----

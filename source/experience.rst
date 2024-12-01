@@ -119,18 +119,19 @@ Electrical Engineering Manager
         :alt: Moog logo
     Radford, VA
 
-
-
 Responsible for technical leadership and management of electrical 
 engineering department.
 
 * Modernize and improve firmware release processes
-* Improve productivity of direct reports through exposure to new techniques and technologies
-* Advise project managers as to the technical capabilities, workloads, and relative workload of the department
-* Improve data visibility and data literacy of the organization by requiring automated testing for throughout the design and deployment cycle
+* Improve productivity of direct reports through exposure 
+to new techniques and technologies
+* Advise project managers as to the technical capabilities, workloads, 
+and relative workload of the department
+* Improve data visibility and data literacy of the organization by 
+requiring automated testing for throughout the design and deployment cycle
 * Develop automated test equipment to replace aging technologies
-* Implement informal professional development environment through lunch 'n learn activities
-* Lead by example
+* Implement informal professional development environment through 
+lunch 'n learn activities
 
 Electrical and Firmware Design Engineer
 ---------------------------------------
@@ -156,9 +157,12 @@ product along with production support.
   * Limited exposure to other platforms
 
 * Apply standards such as DO-160, DO-178 to designs
-* Improve development workflow for the group by shifting group from directory control into a source control software
-* Improve design documentation activities by implementing reports to be attached to engineering change processes
-* Improve design quality by implementing design checklists for schematics, layouts, and components
+* Improve development workflow for the group by shifting group 
+from directory control into a source control software
+* Improve design documentation activities by implementing reports 
+to be attached to engineering change processes
+* Improve design quality by implementing design checklists for 
+schematics, layouts, and components
 * Apply fundamental reliability techniques, including Weibull analysis
 * Develop automated test equipment for my product lines
 
