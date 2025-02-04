@@ -16,14 +16,14 @@ method often leads to code which emphasizes function over cyclic efficiency.
 
 I have successfully deployed each of the below architectures into production:
 
- * PIC24/dsPIC33 series development in C, assembly
- * PIC10/12/16/18 series development in assembly
- * MSP430 series development in C 
- * STM32 series development in C
+ * `PIC24/dsPIC33 <https://en.wikipedia.org/wiki/PIC_microcontrollers#PIC24_and_dsPIC>`_ series development in C, assembly
+ * `PIC10/12/16/18 <https://en.wikipedia.org/wiki/PIC_microcontrollers#PIC10_and_PIC12>`_ series development in assembly
+ * `MSP430 <https://en.wikipedia.org/wiki/TI_MSP430>`_ series development in C
+ * `STM32 <https://en.wikipedia.org/wiki/STM32>`_ series development in C
 
 I have successfully deployed firmware implementing motor control algorithms,
-communication protocols (RS-422, RS-485, wireless), and test hardware.  I 
-have written safety-critical code, including full code documentation.
+communication protocols (RS-422, RS-485, CAN, wireless), and test hardware.  I
+have written safety-critical code, including full documentation.
 
 .. image:: _static/images/ee.png
     :width: 80px
@@ -39,9 +39,9 @@ schematic entry, component selection, through layout and cost
 optimization.  Softwares that I have experience with:
 
  * OrCAD Schematic Entry
- * Cadence PCB Editor
+ * `Cadence PCB Editor <https://www.cadence.com/en_US/home.html>`_
  * `KiCAD <http://www.kicad-pcb.org/>`_ Schematic/Layout
- * Altium Schematic Entry
+ * `Altium Schematic Entry <https://www.altium.com>`_
  * Familiarity with DO-178 software design activities 
  * Familiarity with design to meet DO-160 
 
@@ -62,10 +62,10 @@ production giving me mechanical design skills.
 I have been able to hone my initial skillset through product design and
 tool design.
 
- * SolidWorks
+ * `SolidWorks <https://www.solidworks.com/>`_
  * `3D-printing <https://www.thingiverse.com/slightlynybbled/about>`_
  * Tool design
- * Drawings
+ * Mechanical drawings
 
 .. image:: _static/images/office.png
     :width: 60px
@@ -134,10 +134,10 @@ method often leads to code which emphasizes function over cyclic efficiency.
 
 I have successfully deployed each of the below architectures into production:
 
- * PIC24/dsPIC33 series development in C, assembly
- * PIC10/12/16/18 series development in assembly
- * MSP430 series development in C 
- * STM32 series development in C
+ * `PIC24/dsPIC33 <https://en.wikipedia.org/wiki/PIC_microcontrollers#PIC24_and_dsPIC>`_ series development in C, assembly
+ * `PIC10/12/16/18 <https://en.wikipedia.org/wiki/PIC_microcontrollers#PIC10_and_PIC12>`_ series development in assembly
+ * `MSP430 <https://en.wikipedia.org/wiki/TI_MSP430>`_ series development in C
+ * `STM32 <https://en.wikipedia.org/wiki/STM32>`_ series development in C
 
 I have successfully deployed firmware implementing motor control algorithms,
 communication protocols (RS-422, RS-485, wireless), and test hardware.  I 
@@ -176,8 +176,8 @@ quantitative measures of quality.
  * `Numpy <https://numpy.org/>`_
  * `Pandas <https://pandas.pydata.org/>`_
  * `Matplotlib <https://matplotlib.org/>`_
- * Control charts
- * Pareto charts
+ * `Control charts <https://en.wikipedia.org/wiki/Control_chart>`_
+ * `Pareto analysis <https://en.wikipedia.org/wiki/Pareto_principle#Analysis>`_
 
 .. image:: _static/images/www-logo.png
     :width: 60px
